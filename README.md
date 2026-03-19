@@ -1,2 +1,3 @@
-# rapid-task-manager-90vb
-Repository for automated issue comment bot
+# Rapid Task Manager 90Vb
+
+Automated issue comment bot repository.
